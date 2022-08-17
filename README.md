@@ -1,13 +1,7 @@
 
-<h1>Lumen5 Clone</h1>
- 
-<p>This repository contains a functional clone of the Lumen5 website. The pages that we included here are the home page, the Pricing and EnterPrice pages, the login and signup pages, and all the navbar pages .The top navbar have dropdown effect to show all cateogories. For all the other pages,  The page also has a custom icon in the tab that we added.</p>
+# Lumen5-Clone 
 
-
-<h2>Project brief:</h2>
-
-Our task was to make a functional clone of the Lumen5 website. Lumen5 is a video creation platform designed for brands and businesses to produce engaging video content for social posts, stories, and ads. Our goal is to enable anyone without training or experience to easily create amazing videos in minutes. Our technology enables marketing teams to focus on the story and narrative while relying on our system to do the heavy lifting.
-
+Lumen5 is a video creation platform designed for brands and businesses to produce engaging video content for social posts, stories, and ads. Our goal is to enable anyone without training or experience to easily create amazing videos in minutes. Our technology enables marketing teams to focus on the story and narrative while relying on our system to do the heavy lifting.
 
 
 
@@ -73,7 +67,7 @@ https://github.com/ravinishadcoder/Lumen5-clone
 
 **Enterprice Page**
 
-![App Screenshot](https://miro.medium.com/max/875/1*CFVU-3Di1Cakun2oIk4MRA.gif)
+<img src="https://miro.medium.com/max/875/1*CFVU-3Di1Cakun2oIk4MRA.gif"/>
 
 
 
