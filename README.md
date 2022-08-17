@@ -74,7 +74,8 @@ https://github.com/ravinishadcoder/Lumen5-clone
 **Case Studies and blog page**
 
 
-![App Screenshot](https://miro.medium.com/max/875/1*lHQC7KMiaovKF8xL6cXb-g.gif)
+<img src="https://miro.medium.com/max/875/1*CFVU-3Di1Cakun2oIk4MRA.gif"/>
+
 
 
 
