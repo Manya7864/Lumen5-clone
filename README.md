@@ -1,7 +1,8 @@
 
 # Lumen5-Clone 
 
- Lumen5 is a video-creating platform that allows the creation of interactive and engaging videos with little to no effort.
+Lumen5 is a video creation platform designed for brands and businesses to produce engaging video content for social posts, stories, and ads. Our goal is to enable anyone without training or experience to easily create amazing videos in minutes. Our technology enables marketing teams to focus on the story and narrative while relying on our system to do the heavy lifting.
+
 
 
 ## Tech Stack
@@ -17,17 +18,6 @@
 
 
 
-## Group Members
-
-**Roushan Gupta**
-
-**Shreeprada Bhat**
-
-**Manish Yadav**
-
-**Ashutosh Vishwakarma**
-
-**Ravi Nishad**
 
 ## Netlify link - 
 https://lumen5-teammasai.netlify.app/
@@ -35,7 +25,12 @@ https://lumen5-teammasai.netlify.app/
 ## Git Hub Repo - 
 https://github.com/ravinishadcoder/Lumen5-clone
 
-## Sample of Our Site :-
+
+
+
+
+<h2>Some screenshots of our website:</h2>
+
 
 
 
@@ -80,6 +75,22 @@ https://github.com/ravinishadcoder/Lumen5-clone
 
 
 ![App Screenshot](https://miro.medium.com/max/875/1*lHQC7KMiaovKF8xL6cXb-g.gif)
+
+
+
+
+## Group Members
+
+**Roushan Gupta**
+
+**Shreeprada Bhat**
+
+**Manish Yadav**
+
+**Ashutosh Vishwakarma**
+
+**Ravi Nishad**
+
 
 
 
