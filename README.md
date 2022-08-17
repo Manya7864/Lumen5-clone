@@ -65,16 +65,7 @@ https://github.com/ravinishadcoder/Lumen5-clone
 ![App Screenshot](https://miro.medium.com/max/750/1*2xhCKZTuqAqXgcLwDmLY2A.gif)
 
 
-**Enterprice Page**
 
-<img src="https://miro.medium.com/max/875/1*CFVU-3Di1Cakun2oIk4MRA.gif"/>
-
-
-
-**Case Studies and blog page**
-
-
-<img src="https://miro.medium.com/max/875/1*CFVU-3Di1Cakun2oIk4MRA.gif"/>
 
 
 
